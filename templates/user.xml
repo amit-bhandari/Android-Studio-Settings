@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="log.d" value="Log.d(&quot;$var1$&quot;, &quot;$var2$ : &quot;)" description="Log debug" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

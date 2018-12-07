@@ -1,0 +1,226 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="3" />
+      <entry action="$Paste" count="6" />
+      <entry action="$SelectAll" count="43" />
+      <entry action="$Undo" count="218" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="Annotate" count="6" />
+      <entry action="ChangeSignature" count="1" />
+      <entry action="CheckForUpdate" count="3" />
+      <entry action="CleanGradleProject" count="7" />
+      <entry action="CloseAllEditors" count="19" />
+      <entry action="CloseAllEditorsButActive" count="5" />
+      <entry action="CloseProject" count="15" />
+      <entry action="CollapseAllRegions" count="33" />
+      <entry action="Debug" count="20" />
+      <entry action="DialogOkAction ⏎" count="6" />
+      <entry action="EditorBackSpace" count="1198" />
+      <entry action="EditorChooseLookupItem" count="405" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCopy" count="232" />
+      <entry action="EditorCut" count="44" />
+      <entry action="EditorDelete" count="50" />
+      <entry action="EditorDown" count="660" />
+      <entry action="EditorDownWithSelection" count="6" />
+      <entry action="EditorEnter" count="288" />
+      <entry action="EditorEscape" count="12" />
+      <entry action="EditorIndentSelection" count="2" />
+      <entry action="EditorLeft" count="402" />
+      <entry action="EditorLeftWithSelection" count="11" />
+      <entry action="EditorPaste" count="300" />
+      <entry action="EditorRight" count="284" />
+      <entry action="EditorStartNewLine" count="4" />
+      <entry action="EditorTab" count="37" />
+      <entry action="EditorUp" count="151" />
+      <entry action="EditorUpWithSelection" count="24" />
+      <entry action="ExpandAllRegions" count="1" />
+      <entry action="Find" count="149" />
+      <entry action="FindInPath" count="34" />
+      <entry action="GotoDeclaration" count="117" />
+      <entry action="HelpTopics" count="1" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="InsertLiveTemplate" count="11" />
+      <entry action="IntelliJ.HelpTopics" count="1" />
+      <entry action="JumpToLastWindow" count="2" />
+      <entry action="NewAndroidVectorAsset" count="3" />
+      <entry action="NextTemplateVariable" count="17" />
+      <entry action="PasteMultiple" count="2" />
+      <entry action="RebuildGradleProject" count="19" />
+      <entry action="RenameElement" count="3" />
+      <entry action="Resume" count="160" />
+      <entry action="Run" count="211" />
+      <entry action="SaveAll" count="1" />
+      <entry action="ShowIntentionActions" count="44" />
+      <entry action="StepInto" count="1" />
+      <entry action="StepOver" count="62" />
+      <entry action="Stop" count="14" />
+      <entry action="ToggleLineBreakpoint" count="58" />
+      <entry action="ViewBreakpoints" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1540446523451" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="1" last-shown="0" last-used="1543307472272" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="35" last-shown="0" last-used="1544078085991" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="446" last-shown="0" last-used="1544087528731" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="366" last-shown="0" last-used="1544087524311" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="117" last-shown="0" last-used="1544099627890" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1541057870079" last-used="0" shown-count="25" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="9" last-shown="0" last-used="1542609615094" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="4304" />
+      <option name="invocations" value="383" />
+      <option name="startDate" value="1540492200000" />
+      <option name="dayCount" value="15" />
+      <option name="lastDate" value="1544034600000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="35" />
+      <option name="startDate" value="1540492200000" />
+      <option name="dayCount" value="8" />
+      <option name="lastDate" value="1544034600000" />
+    </fixesStatsTag>
+  </component>
+  <component name="IntentionsCollector">
+    <Intentions>
+      <entry name="Groovy org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="10" />
+      <entry name="XML com.android.tools.idea.lint.SuppressLintIntentionAction" count="2" />
+      <entry name="XML org.jetbrains.android.inspections.lint.AndroidLintExternalAnnotator$MyFixingIntention" count="5" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.core.overrideImplement.ImplementMembersHandler" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.inspections.NullableBooleanElvisInspection$ReplaceWithEqualityCheckFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.AddExclExclCallFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ChangeToFunctionInvocationFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ChangeToPropertyAccessFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.QuickFixWithDelegateFactory" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ReplaceInfixOrOperatorCallFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.ReplaceWithDotCallFix" count="1" />
+      <entry name="kotlin [!]org.jetbrains.kotlin.idea.quickfix.SuperClassNotInitialized$AddParenthesisFix" count="2" />
+      <entry name="kotlin org.jetbrains.kotlin.idea.inspections.AbstractApplicabilityBasedInspection$LocalFix" count="4" />
+      <entry name="kotlin org.jetbrains.kotlin.idea.inspections.RedundantSamConstructorInspection$createQuickFix$1" count="4" />
+    </Intentions>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="7" />
+      <entry path="Build -&gt; Rebuild Project" count="19" />
+      <entry path="File -&gt; Close Project" count="15" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="2" />
+      <entry path="Help -&gt; Android Studio Help" count="1" />
+      <entry path="Help -&gt; IntelliJ IDEA Help" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+Enter" count="44" />
+      <entry shortcut="Backspace" count="1198" />
+      <entry shortcut="Delete" count="53" />
+      <entry shortcut="Down" count="661" />
+      <entry shortcut="Enter" count="1330" />
+      <entry shortcut="Escape" count="17" />
+      <entry shortcut="F12" count="2" />
+      <entry shortcut="F2" count="1" />
+      <entry shortcut="Left" count="402" />
+      <entry shortcut="Meta+A" count="42" />
+      <entry shortcut="Meta+B" count="1" />
+      <entry shortcut="Meta+C" count="232" />
+      <entry shortcut="Meta+F" count="165" />
+      <entry shortcut="Meta+F6" count="1" />
+      <entry shortcut="Meta+J" count="11" />
+      <entry shortcut="Meta+S" count="1" />
+      <entry shortcut="Meta+Shift+F" count="34" />
+      <entry shortcut="Meta+Shift+Minus" count="33" />
+      <entry shortcut="Meta+Shift+NumPad +" count="1" />
+      <entry shortcut="Meta+Shift+V" count="2" />
+      <entry shortcut="Meta+V" count="306" />
+      <entry shortcut="Meta+X" count="44" />
+      <entry shortcut="Meta+Z" count="218" />
+      <entry shortcut="Right" count="284" />
+      <entry shortcut="Shift+Down" count="6" />
+      <entry shortcut="Shift+Enter" count="15" />
+      <entry shortcut="Shift+F6" count="2" />
+      <entry shortcut="Shift+Left" count="11" />
+      <entry shortcut="Shift+Up" count="24" />
+      <entry shortcut="Tab" count="40" />
+      <entry shortcut="Up" count="151" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="AndroidConnectDebuggerAction@NavBarToolbar" count="1" />
+      <entry action="Debug@NavBarToolbar" count="20" />
+      <entry action="Resume@DebuggerToolbar" count="160" />
+      <entry action="Run@NavBarToolbar" count="211" />
+      <entry action="RunConfiguration@NavBarToolbar" count="5" />
+      <entry action="Show Options@ToolWindowHeader" count="2" />
+      <entry action="StepInto@DebuggerToolbar" count="1" />
+      <entry action="StepOver@DebuggerToolbar" count="62" />
+      <entry action="Stop@DebuggerToolbar" count="1" />
+      <entry action="Stop@NavBarToolbar" count="13" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="5" />
+      <entry action="com.android.tools.idea.fd.actions.HotswapAction@NavBarToolbar" count="74" />
+      <entry action="com.android.tools.idea.logcat.LogcatConsoleActionsPostProcessor$ClearLogCatAction@AndroidLogcatView" count="36" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@BuildResults" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="37" />
+      <entry feature="StripeButton[Android Profiler].shown" count="32" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="23" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="279" />
+      <entry feature="ide.settings.Color Scheme" count="5" />
+      <entry feature="ide.settings.Color Scheme Font" count="6" />
+      <entry feature="ide.settings.Console Font" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.Live Templates" count="2" />
+      <entry feature="ide.settings.Material Custom Theme" count="5" />
+      <entry feature="ide.settings.Material Theme" count="3" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Updates" count="2" />
+      <entry feature="ideaapp.started" count="41" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>
